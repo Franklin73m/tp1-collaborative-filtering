@@ -12,7 +12,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# com_3
+# com_4
 class ItemItemCF:
 
     def __init__(self, top_n=10):
